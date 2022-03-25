@@ -1,0 +1,2 @@
+# Taxi
+latihan class object
